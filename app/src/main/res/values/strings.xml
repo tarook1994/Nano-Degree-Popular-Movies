@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_fav">Favourite List</string>
+    <string name="action_top">Top Rated</string>
+    <string name="action_pop">Popular</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_ay7aga">ay7agaActivity</string>
+</resources>
